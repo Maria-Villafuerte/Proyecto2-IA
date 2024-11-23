@@ -8,5 +8,7 @@ myenv/
 __pycache__/
 *.py[cod]
 *.so
-
+datos.txt
+history.txt
+historial.txt
 Documentos
