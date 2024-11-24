@@ -1,6 +1,6 @@
 # Proyecto2-IA: Agente Interactivo de Análisis Energético
 
-Una aplicación sofisticada basada en Python que combina capacidades de IA con análisis integral de datos energéticos. Esta herramienta aprovecha LangChain, GPT-4 de OpenAI y Streamlit para proporcionar análisis y visualización interactiva de datos energéticos.
+Una aplicación basada en Python que combina capacidades de IA con análisis integral de datos energéticos. Esta herramienta aprovecha LangChain, GPT-4 de OpenAI y Streamlit para proporcionar análisis y visualización interactiva de datos energéticos.
 
 ## Características
 
@@ -14,6 +14,11 @@ Una aplicación sofisticada basada en Python que combina capacidades de IA con a
   - Datos de Generación de Plantas
   - Datos de Generación Térmica y Nuclear
 
+
+## 📹 Demostración
+(Haz click a la imagen)
+[![Video Demostrativo](Minitura.png)](https://youtu.be/AAXXX63LwSw)
+Link del Video: https://youtu.be/AAXXX63LwSw
 
 ## Prerrequisitos
 
